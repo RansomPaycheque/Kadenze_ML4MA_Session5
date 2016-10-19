@@ -18,11 +18,19 @@ Steps:
 1) Turn on Audio on
 </br>
 2) Drag and drop the music_wav and the speech_wav folder where indicated
+</br>
 3) In Wekinator, open a project with 24 inputs, 1 output, select all classifiers, 2 classes
+</br>
 4) Back in the application, press on 'Music'. Tracks will start to play (I have only limited to 1 second per track but you can change this in the metro object, in edit mode)
+</br>
 5) In Wekinator: select class 1 in output and start recording
+</br>
 6) Wait till 50 something tracks (keeps an eye) then stop recording in Wekinator. Alternatively stop recording (in Wekinator) and press 'stop and reset' in the Application.
+</br>
 7) Repeat from 4) for 'Speech' class
+</br>
 8) After you have recorded sufficient samples, train the model with your classifier of choice (try a few...)
+</br>
 9) Now you are ready to test: drag and drop 'test' folder in Application where indicated, select a track and press Run in Wekinator.
+</br>
 10) Check how your classifier is doing.
