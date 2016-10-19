@@ -3,6 +3,7 @@ Kadenze_Machine_Learning_for_Musicians_and_Artists_Session5
 
 
 This MFCC feature extractor is a Max 7 patch and relies on the zsa.descriptors_1.01 package, included in this directory.
+Or go to: http://www.e--j.com for downloading, although they are now available through the Package Manage in Max 7.
 Before running the patch, copy the above zsa.descriptors_1.01 folder in Max Packages folder, which normally lived in /Documents.
 It is meant for the Kadenze mooc Machine Learning for Musician and Artist, by Rebecca Fiebrink. Session 5.
 It should successfully help classify music or speech tracks.
