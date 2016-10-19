@@ -2,7 +2,7 @@
 Kadenze_Machine_Learning_for_Musicians_and_Artists_Session5
 
 
-This MFCC feature extractor is a Max 7 patch and relies on the the external OpenSoundControl.mxo and the zsa.descriptors_1.01 package. For the latter go to: http://www.e--j.com for downloading, although they are now available through the Package Manage in Max 7.
+This MFCC feature extractor is a Max 7 patch and relies on the the external OpenSoundControl.mxo and the zsa.descriptors_1.01 package. For the latter go to: http://www.e--j.com for downloading, although they are now available through the Package Manager in Max 7.
 </br>
 I have included the external OpenSoundControl.mxo and the zsa.mfcc~.mxo but I am not sure it'll work just with these...
 (You can always go on to the Gallery for Session 5 on Kadenze and download the zip that I have uploaded, with everything in, hopefully).
