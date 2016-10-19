@@ -16,6 +16,7 @@ The 8 missing samples are place in a 'test' folder, for testing whether your cla
 Steps:
 
 1) Turn on Audio on
+</br>
 2) Drag and drop the music_wav and the speech_wav folder where indicated
 3) In Wekinator, open a project with 24 inputs, 1 output, select all classifiers, 2 classes
 4) Back in the application, press on 'Music'. Tracks will start to play (I have only limited to 1 second per track but you can change this in the metro object, in edit mode)
